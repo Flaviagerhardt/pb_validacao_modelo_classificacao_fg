@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pb_validacao_modelo_classificacao_fg", "pb_validacao_modelo_classificacao_fg\pb_validacao_modelo_classificacao_fg.pyproj", "{AAC9F2F7-7ECB-4F61-89AD-153E89B40A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC9F2F7-7ECB-4F61-89AD-153E89B40A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC9F2F7-7ECB-4F61-89AD-153E89B40A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE1BEE2-E962-4CFB-A06D-58A7B0A25D49}
+	EndGlobalSection
+EndGlobal
